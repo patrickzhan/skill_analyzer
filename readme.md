@@ -1,7 +1,7 @@
-# Software Engineering Skills Analyzer
+# Software Engineering Skills Analyzer (unfinished)
 
 ## Objective
-To create a tool taht collects and analyzes job posting and industry trends to identify skill required for entry-level, mid-level, and senior software engineering rols.
+To create a tool that collects and analyzes job posting and industry trends to identify skill required for entry-level, mid-level, and senior software engineering roles.
 
 ## Features
 
